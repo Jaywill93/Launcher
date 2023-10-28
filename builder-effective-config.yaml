@@ -1,0 +1,13 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.example.myapp
+productName: My App
+win:
+  target: nsis
+mac:
+  target: dmg
+linux:
+  target: deb
+files: []
+electronVersion: 27.0.2
