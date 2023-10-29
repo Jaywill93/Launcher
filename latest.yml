@@ -1,8 +1,0 @@
-version: 1.0.0
-files:
-  - url: My-App-Setup-1.0.0.exe
-    sha512: U+lEw83cHZZsRuRW4MRDvUyDzFWb5u5dAQU1IG+RAnzXL7CbLj4H1UFYVWWxvJPjuKCXQVAFwtOX9msphyxNPQ==
-    size: 74782183
-path: My-App-Setup-1.0.0.exe
-sha512: U+lEw83cHZZsRuRW4MRDvUyDzFWb5u5dAQU1IG+RAnzXL7CbLj4H1UFYVWWxvJPjuKCXQVAFwtOX9msphyxNPQ==
-releaseDate: '2023-10-28T11:59:17.074Z'
